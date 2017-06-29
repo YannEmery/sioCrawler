@@ -12,3 +12,7 @@
 2. deux
 3. trois
 4. quatre
+
+* Salut
+* tu vas
+* bien ?
